@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "talk kid"
+  ],
+  "response_type": "event",
+  "response": ""
+}

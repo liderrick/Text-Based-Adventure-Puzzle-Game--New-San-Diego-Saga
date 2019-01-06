@@ -1,0 +1,12 @@
+{
+  "x":0,
+  "y":3,
+  "name": "Bayrock",
+  "district_items": ["etc/items/red_chest.json",
+                      "etc/items/mushroom.json"],
+  "clues": [],
+  "characters": [],
+  "short_description": "Bayrock is at the edge of New San Diego.",
+  "long_description": "Bayrock is at the edge of New San Diego. The area has a rocky cliff topography with great ocean views."
+  
+}

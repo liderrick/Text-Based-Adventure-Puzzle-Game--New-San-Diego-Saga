@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "look construction worker",
+    "view construction worker",
+        "look worker",
+    "view worker",
+        "look construction",
+    "view construction"
+  ],
+  "response_type": "display",
+  "response": "A Construction Worker is surveying the area. Probably for the new high-rises."
+}

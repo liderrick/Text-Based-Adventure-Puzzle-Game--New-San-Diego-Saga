@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "view sword",
+    "look sword",
+    "view magic sword",
+    "look magic sword"
+  ],
+  "response_type": "display",
+  "response": "Magic Sword is one of the legendary items needed to defeat Dr. Crime!"
+}

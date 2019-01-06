@@ -1,0 +1,13 @@
+{
+  "commands": [
+    	"take orb",
+        "take up orb",
+        "take vision orb",
+        "take up vision orb",
+        "take vision",
+        "take up vision"
+    ],
+  "response_type": "action",
+  "response": "The Vision Orb is in my inventory now.",
+  "more_response_type": "take_item"
+}

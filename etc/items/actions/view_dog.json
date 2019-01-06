@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "look dog",
+    "view dog"
+  ],
+  "response_type": "display",
+  "response": "The Dog appears to be homeless."
+}

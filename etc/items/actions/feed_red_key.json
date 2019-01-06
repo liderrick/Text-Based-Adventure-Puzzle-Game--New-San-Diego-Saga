@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "feed red key"
+  ],
+  "response_type": "display",
+  "response": "You can't feed an inanimate object."
+}
+

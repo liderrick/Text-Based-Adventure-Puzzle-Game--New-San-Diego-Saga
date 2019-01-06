@@ -1,0 +1,11 @@
+{
+  "commands": [
+        "take coin",
+        "take up coin",
+        "take silver coin",
+        "take up silver coin"
+],
+  "response_type": "action",
+  "response": "The Coin is in my inventory now.",
+  "more_response_type": "take_item"
+}

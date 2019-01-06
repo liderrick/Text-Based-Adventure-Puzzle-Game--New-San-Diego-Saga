@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "look mushroom",
+    "view mushroom"],
+  "response_type": "display",
+  "response": "Looks delicious, but could be poisonous. I'd better not eat this."
+}

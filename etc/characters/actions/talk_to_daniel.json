@@ -1,0 +1,6 @@
+{
+  "commands": [
+    "talk daniel"],
+  "response_type": "event",
+  "response": "Hello there!"
+}

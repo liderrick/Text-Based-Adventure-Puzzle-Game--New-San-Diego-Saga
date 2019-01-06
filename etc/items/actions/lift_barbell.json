@@ -1,0 +1,7 @@
+{
+  "commands": ["lift barbell",
+                "lift up barbell"],
+  "response_type": "action",
+  "response": "",
+  "more_response_type": "lift"
+}

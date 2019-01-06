@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "swim green key"
+  ],
+  "response_type": "display",
+  "response": "You can't swim that!"
+}

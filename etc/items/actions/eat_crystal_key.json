@@ -1,0 +1,9 @@
+
+{
+  "commands": [
+    "eat crystal key"
+  ],
+  "response_type": "display",
+  "response": "You shouldn't do that! The Crystal Key is very important and you need it!"
+}
+

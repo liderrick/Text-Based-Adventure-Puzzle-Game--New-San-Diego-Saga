@@ -1,0 +1,6 @@
+{
+  "commands": ["look tree",
+  "view tree"],
+  "response_type": "display",
+  "response": "A small redwood Tree. About as big as you."
+}

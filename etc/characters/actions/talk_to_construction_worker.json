@@ -1,0 +1,9 @@
+{
+  "commands": [
+    "talk construction worker",
+    "talk worker",
+    "talk construction"
+  ],
+  "response_type": "event",
+  "response": ""
+}

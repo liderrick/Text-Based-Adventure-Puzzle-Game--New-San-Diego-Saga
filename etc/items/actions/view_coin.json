@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "look coin",
+    "view coin"],
+  "response_type": "display",
+  "response": "It's a silver Coin.  It says 'IN DOG WE TRUST' on the front side. Huh? Is this a typo?"
+}

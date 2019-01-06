@@ -1,0 +1,19 @@
+{
+  "lotto":["lottery"],
+  "ticket": ["tix", "tick"],
+  "statue": ["sculpture", "figure"],
+  "coin": ["currency", "money"],
+  "sword": ["sabre", "weapon"],
+  "hobo": ["homeless"],
+  "daniel": ["danny", "dan", "danzo"],
+  "mushroom": ["shrooms", "mushies", "mushrooms"],
+  "grapes": ["grape"],
+  "stone": ["rock"],
+  "barbell": ["weight", "weights", "bar"],
+  "lake": ["water"],
+  "kid": ["child", "minor"],
+  "tree": ["plant"],
+  "jogger": ["runner"],
+  "wizard": ["mage"],
+  "dog": ["canine", "puppy", "pup"]
+}

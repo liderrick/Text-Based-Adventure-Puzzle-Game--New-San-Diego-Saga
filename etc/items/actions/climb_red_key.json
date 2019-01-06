@@ -1,0 +1,9 @@
+
+{
+  "commands": [
+    "climb red key"
+  ],
+  "response_type": "display",
+  "response": "The Red Key is too small to climb."
+}
+

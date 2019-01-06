@@ -1,0 +1,10 @@
+{
+  "commands": [
+    "look vitality orb",
+    "look vitality",
+    "view vitality orb",
+    "view vitality"
+  ],
+  "response_type": "display",
+  "response": "It's the legendary Vitality Orb! With this, I can withstand damage in battle against Dr. Crime!"
+}

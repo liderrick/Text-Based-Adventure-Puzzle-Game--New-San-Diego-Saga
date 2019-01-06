@@ -1,0 +1,8 @@
+{
+  "commands": [
+        "eat lotto",
+        "eat ticket",
+        "eat lotto ticket"],
+  "response_type": "display",
+  "response": "There must be a better way to get fiber in your system."
+}

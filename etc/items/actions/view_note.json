@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "look note",
+  "view note"],
+  "response_type": "display",
+  "response": "The Note reads, 'Hobo, Student, Businessman, Wizard'."
+}

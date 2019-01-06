@@ -1,0 +1,4 @@
+{
+  "question": "This type of error correction code can correct single bit errors in data transmission.",
+  "answers": ["hamming code", "hamming"]
+}

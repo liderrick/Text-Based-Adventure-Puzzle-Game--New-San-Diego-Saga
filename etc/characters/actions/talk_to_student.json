@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "talk student"
+  ],
+  "response_type": "event",
+  "response": ""
+}

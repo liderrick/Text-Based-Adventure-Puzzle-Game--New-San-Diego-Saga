@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "talk driver"
+  ],
+  "response_type": "event",
+  "response": ""
+}

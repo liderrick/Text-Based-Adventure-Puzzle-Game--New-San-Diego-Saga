@@ -1,0 +1,12 @@
+{
+  "commands": [
+        "view lotto",
+        "view lotto ticket",
+        "view ticket",
+        "look lotto",
+        "look lotto ticket",
+        "look ticket"
+  ],
+  "response_type": "display",
+  "response": "A Lotto Ticket with the numbers '23 57 12' on it."
+}

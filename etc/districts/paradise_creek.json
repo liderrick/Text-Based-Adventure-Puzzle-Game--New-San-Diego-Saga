@@ -1,0 +1,11 @@
+{
+  "x":4,
+  "y":4,
+  "name": "Paradise Creek",
+  "district_items": ["etc/items/yellow_chest.json"],
+  "clues": [],
+  "characters": ["etc/characters/jogger.json"],
+  "short_description": "Paradise Creek is known for its plentiful numbers of streams.",
+  "long_description": "Paradise Creek is known for its plentiful numbers of streams. It's known for its annual fly-fishing event."
+
+}

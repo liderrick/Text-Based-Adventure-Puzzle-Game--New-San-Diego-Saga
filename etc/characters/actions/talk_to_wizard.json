@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "talk wizard"
+  ],
+  "response_type": "event",
+  "response": ""
+}

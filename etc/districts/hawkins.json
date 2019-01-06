@@ -1,0 +1,12 @@
+{
+  "x":2,
+  "y":4,
+  "name": "Hawkins",
+  "district_items": ["etc/items/mushroom.json",
+                      "etc/items/tree.json"],
+  "clues": [],
+  "characters": [],
+  "short_description": "Hawkins is a dicey neighborhood of the city of New San Diego.",
+  "long_description": "Hawkins is a dicey neighborhood of the city of New San Diego. There has been rumors of paranormal activity here - best to keep a low-profile."
+
+}

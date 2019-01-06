@@ -1,0 +1,7 @@
+{
+  "commands": [
+    "talk florist"
+  ],
+  "response_type": "event",
+  "response": ""
+}

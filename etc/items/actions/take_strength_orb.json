@@ -1,0 +1,13 @@
+{
+  "commands": [
+    	"take orb",
+        "take up orb",
+        "take strength orb",
+        "take up strength orb",
+        "take strength",
+        "take up strength"
+    ],
+  "response_type": "action",
+  "response": "The Strength Orb is in my inventory now.",
+  "more_response_type": "take_item"
+}

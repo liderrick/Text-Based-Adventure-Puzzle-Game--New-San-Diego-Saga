@@ -1,0 +1,8 @@
+{
+  "commands": [
+    "look grapes",
+    "view grapes"
+  ],
+  "response_type": "display",
+  "response": "An assortment of colorful Grapes. My mouth waters as I stare at these."
+}

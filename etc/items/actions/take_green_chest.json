@@ -1,0 +1,8 @@
+{"commands": [
+	"take green chest",
+	"take up green chest",
+	"take chest",
+	"take up chest"
+],
+"response_type": "display",
+"response": "You can't take the Green Chest. It's too heavy."}
